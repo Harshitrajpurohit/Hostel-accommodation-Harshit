@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/NK Infosystem/C Course"
+		},
+		{
+			"path": "../HTML"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"main.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "HTML",
+		"liveServer.settings.port": 5501,
+		"livePreview.defaultPreviewPath": "d:\\HTML\\hr11.html"
+	}
+}
